@@ -1,10 +1,5 @@
 ### I am a backend developer passionate about making the day to day life of humans easier by using Laravel to build solutions for businesses and individuals. 👋
 
-<!--
-**charlesawulor/charlesawulor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Telemedicine platform
 - 🌱 I’m currently learning ... NodeJS
 - 👯 I’m looking to collaborate on ... Laravel
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/charles-awulor-315363100/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I assimilate more in the early hours of the day
--->
+
