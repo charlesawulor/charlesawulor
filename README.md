@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on a Telemedicine platform
 - 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on ... Laravel
-- 🤔 I’m looking for help with ... NodeJs
+- 👯 I’m looking to collaborate on Laravel
+- 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about ... Laravel
-- 📫 How to reach me: ... https://www.linkedin.com/in/charles-awulor-315363100/
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I assimilate more in the early hours of the day
+- 📫 How to reach me: https://www.linkedin.com/in/charles-awulor-315363100/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I assimilate more in the early hours of the day
 
