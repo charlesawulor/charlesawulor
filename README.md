@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Laravel
 - 📫 How to reach me: https://www.linkedin.com/in/charles-awulor-315363100/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I assimilate more in the early hours of the day
+- ⚡ Fun fact: I assimilate better during the early hours of the day
 
