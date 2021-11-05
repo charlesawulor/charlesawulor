@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on Laravel
 - 🤔 I’m looking for help with NodeJs
-- 💬 Ask me about ... Laravel
+- 💬 Ask me about Laravel
 - 📫 How to reach me: https://www.linkedin.com/in/charles-awulor-315363100/  &  c.awulor@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I assimilate better during the early hours of the day
